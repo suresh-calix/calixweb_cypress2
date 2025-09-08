@@ -1,0 +1,17 @@
+{
+  "name": "calix_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "open" : "npx cypress open",
+    "test": "npx cypress run",
+    "chrome" : "npx cypress run --browser -chrome"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^15.0.0"
+  }
+}
