@@ -1,11 +1,30 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+
+  reporter: 'cypress-mochawesome-reporter',
+  projectId: "sbfw1m",
+
   e2e: {
     setupNodeEvents(on, config) {
-      // implement node event listeners here
+      require('cypress-mochawesome-reporter/plugin')(on);
     },
-    specPattern : 'cypress/calix/smoke/*.js',
+
+    env: {
+      url: 'https://www.calix.com/'
+    },
+    reporterOptions: {
+      reportDir: 'cypress/reports/html',
+      overwrite: false,
+      html: true,
+      json: true
+    },
+
+    retries: {
+      runMode: 1,
+    },
+
+    specPattern: 'cypress/calix/smoke/*.js',
     screenshotsFolder: 'cypress/screenshots',
     defaultCommandTimeout: 6000,
   },
