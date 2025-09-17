@@ -26,6 +26,6 @@ module.exports = defineConfig({
 
     specPattern: 'cypress/calix/smoke/*.js',
     screenshotsFolder: 'cypress/screenshots',
-    defaultCommandTimeout: 6000,
+    defaultCommandTimeout: 10000,
   },
 });

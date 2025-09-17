@@ -19,10 +19,10 @@ import './commands'
 import 'cypress-mochawesome-reporter/register';
 
 Cypress.on('uncaught:exception', (err, runnable) => {
-      // returning false here prevents Cypress from failing the test
-      if (err.message.includes('top.$ is not a function')) {
-        return false;
-      }
-      // If you want to allow other uncaught exceptions to still fail the test,
-      // do not return false for them.
-    });
+  // returning false here prevents Cypress from failing the test
+  if (err.message.includes('top.$ is not a function')) {
+    return false;
+  }
+  // If you want to allow other uncaught exceptions to still fail the test,
+  // do not return false for them.
+});

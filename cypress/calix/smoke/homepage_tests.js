@@ -1,8 +1,8 @@
 
-import HomePage from "../../pageObjects/homePage";
+import BasePage from "../../pageObjects/BasePage"
 describe('home page validations', function () {
 
-    const homePage = new HomePage()
+    const basePage = new BasePage()
 
     before(function () {
         cy.fixture('data').then(function (data) {
@@ -13,7 +13,7 @@ describe('home page validations', function () {
     it('verify calix home page', function () {
 
         //homePage.gotoURL(this.data.url)
-        homePage.gotoURL(Cypress.env('url'))
+        const homePage = basePage.gotoURL(Cypress.env('url'))
         const expectedText = 'Calix | Calix Managed Services | Calix Broadband Platform | Calix Inc'
         homePage.getTitle().then((title) => {
             expect(title).to.equal(expectedText)
@@ -25,7 +25,7 @@ describe('home page validations', function () {
     it('verify calix home page', function () {
 
         //homePage.gotoURL(this.data.url)
-        homePage.gotoURL(Cypress.env('url'))
+        const homePage = basePage.gotoURL(Cypress.env('url'))
         const expectedText = 'Calix | Calcix Managed Services | Calix Broadband Platform | Calix Inc'
         homePage.getTitle().then((title) => {
             expect(title).to.equal(expectedText)
