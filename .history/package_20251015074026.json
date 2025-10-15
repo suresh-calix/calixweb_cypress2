@@ -7,7 +7,7 @@
     "test": "npx cypress run --headed --browser chrome --spec cypress/calix/smoke/blog_test.js",
     "chrome": "npx cypress run --headed --browser chrome",
     "cypresscloud": "npx cypress run --record --key a01c5d03-c1e7-4ced-967f-e79b20259a80 --browser chrome",
-    "IndustryStandard": "npx cypress run --headed --browser chrome --spec cypress/calix/smoke/industryStandard.js",
+    "IndustryStandard": "npx cypress run --headed --browser chrome --spec cypress/calix/smoke/IndustryStandard.js",
     "blog1": "npx cypress run --headed --browser chrome --spec cypress/calix/smoke/blog1.js",
     "visual-test": "dotenv -e .env -- npx percy exec -- npx cypress run --spec cypress/calix/smoke/VisualTest.js",
     "api-test": "npx cypress run --browser chrome --spec cypress/calix/smoke/Api.js",

@@ -1,0 +1,114 @@
+[
+  {
+    "path": "/video/webinars/how-to-know-if-your-subscribers-love-you.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/systems/p-series/calix_indoor_ONTs.html",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigapoint-ont-onu.html"
+  },
+  {
+    "path": "/systems/e-series/calix_e7-20.html",
+    "expectedRedirect": "/products/platform/intelligent-access/systems/axos-e7-2.html"
+  },
+  {
+    "path": "/systems/p-series/calix_residential_services_gateways.html",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigapoint-ont-onu.html"
+  },
+  {
+    "path": "/gigacenter/",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigaspire.html"
+  },
+  {
+    "path": "/systems/e-series/",
+    "expectedRedirect": "/products/platform/intelligent-access/systems/axos-e3-2.html"
+  },
+  {
+    "path": "/video/webinars/assumptions-about-working-from-home-webinar.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/video/webinars/transform-your-oss-to-speed-deployment-times.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/node---webinar/new-year-and-new-approach.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/node---webinar/overcome-performance-testing-challenges.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/video/webinars/three-marketing-and-subscriber-experience-strategies-to-capture-the-post-pandemic-boom.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/video/webinars/elevating-the-subscriber-experience-in-the-home.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/video/webinars/how-can-you-reach-more-subscribers-faster-use-facebook-lookalike-audiences.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/node---webinar/outpace-the-competition-with-home-security-made-simple.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/node---webinar/2022/beat-the-competition-with-a-subscriber-acquisition-strategy.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2022/how-to-know-if-your-subscribers-love-you.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/systems/p-series/calix_indoor_ONTs.html",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigapoint-ont-onu.html"
+  },
+  {
+    "path": "/systems/e-series/calix_e7-20.html",
+    "expectedRedirect": "/products/platform/intelligent-access/systems/axos-e7-2.html"
+  },
+  {
+    "path": "/systems/p-series/calix_residential_services_gateways.html",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigapoint-ont-onu.html"
+  },
+  {
+    "path": "/gigacenter/",
+    "expectedRedirect": "/products/platform/unlimited-subscriber/gigaspire.html"
+  },
+  {
+    "path": "/systems/e-series/",
+    "expectedRedirect": "/products/platform/intelligent-access/systems/axos-e3-2.html"
+  },
+  {
+    "path": "/webinars/2020/assumptions-about-subscribers.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2020/transform-your-oss.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2021/new-year-and-new-approach.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2021/overcome-performance-testing-challenges.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2021/three-marketing-and-subscriber-experience-strategies.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/webinars/2021/elevating-the-subscriber-experience.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/systems/e-series",
+    "expectedRedirect": "/products/platform/intelligent-access/systems/axos-e3-21.html"
+  }
+]

@@ -1,16 +1,6 @@
 import HomePage from "./homePage";
 
 class BasePage {
-    dropdown(selector, value) {
-    cy.get('body').then($body => {
-      if ($body.find(selector).length) {
-        cy.get(selector).select(value, { force: true });
-        cy.log(`Selected dropdown: ${selector} with value: ${value}`);
-      } else {
-        cy.log(`Dropdown not found: ${selector}`);
-      }
-    });
-}
 
     gotoURL(url) {
         cy.visit(url)
@@ -85,9 +75,7 @@ class BasePage {
             cy.writeFile('cypress/outputs/invalid_hrefs.json', invalidHrefs);
         });
     }
-    
 
 }
-
 
 export default BasePage;

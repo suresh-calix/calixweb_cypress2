@@ -1,0 +1,21 @@
+{
+  "name": "calix_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "test": "npx cypress run --headed --browser chrome --spec cypress/calix/smoke/blog_test.js",
+    "chrome": "npx cypress run --headed --browser chrome",
+    "cypresscloud" : "npx cypress run --record --key a01c5d03-c1e7-4ced-967f-e79b20259a80 --browser chrome"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^15.0.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
