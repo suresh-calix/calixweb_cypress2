@@ -1,0 +1,202 @@
+[
+  {
+    "path": "/forms/broadband-ops/webinar/operations-complexity-profits-2025.html",
+    "expectedRedirect": "/events/webinar/2024/will-operations-complexity-eat.html"
+  },
+  {
+    "path": "/forms/broadband-platform/webinar/happy-network-happy-support.html",
+    "expectedRedirect": "/events/webinar/2024/happy-network-happy-support.html"
+  },
+  {
+    "path": "/forms/build/webinar/all-in-new-services.html",
+    "expectedRedirect": "/events/webinar/2024/three-broadband-businesses.html"
+  },
+  {
+    "path": "/forms/build/webinar/bead-application-phase.html",
+    "expectedRedirect": "/events/webinar/2024/the-bead-application-phase.html"
+  },
+  {
+    "path": "/forms/build/webinar/bead-winners-protect-communities.html",
+    "expectedRedirect": "/events/webinar/2024/bead-winners.html"
+  },
+  {
+    "path": "/forms/build/webinar/funding-options-drive-growth.html",
+    "expectedRedirect": "/events/webinar/2025/matchmakers-exploring-funding.html"
+  },
+  {
+    "path": "/forms/build/webinar/future-of-bead.html",
+    "expectedRedirect": "/events/webinar/2024/future-of-bead.html"
+  },
+  {
+    "path": "/forms/build/webinar/gtm-and-win.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/launch-broadband-usda-funding.html",
+    "expectedRedirect": "/events/webinar/2024/launch-ambitious-broadband.html"
+  },
+  {
+    "path": "/forms/build/webinar/local-gov-fund-launch.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/open-architecture.html",
+    "expectedRedirect": "/events/webinar/2024/opening-possibilities.html"
+  },
+  {
+    "path": "/forms/build/webinar/set-yourself-apart.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/using-community-wi-fi.html",
+    "expectedRedirect": "/events/webinar/2024/how-do-top-service-providers.html"
+  },
+  {
+    "path": "/forms/build/webinar/using-outdoor-wi-fi.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/win-bead-funding.html",
+    "expectedRedirect": "/events/webinar/2025/size-of-the-fight.html"
+  },
+  {
+    "path": "/forms/customer-support/webinar/lasting-love.html",
+    "expectedRedirect": "/events/webinar/2024/fuel-business-growth.html"
+  },
+  {
+    "path": "/forms/general-manager/webinar/win-small-biz-market.html",
+    "expectedRedirect": "/events/webinar/2025/stand-out-solution.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/break-into-small-biz-markets.html",
+    "expectedRedirect": "/events/webinar/2024/break-into-small-business-market.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/keep-subscribers-safe.html",
+    "expectedRedirect": "/events/webinar/2024/keep-your-subscribers-safe.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/new-broadband-offerings.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/new-wi-fi-strategy.html",
+    "expectedRedirect": "/events/webinar/2025/new-wifi-strategy.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/reach-the-right-business-with-the-right-message.html",
+    "expectedRedirect": "/events/webinar/2024/beat-the-broadband-competition.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/rural-broadband-stand-out.html",
+    "expectedRedirect": "/events/webinar/2024/top-rural-broadband-businesses.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/show-subscribers-safety.html",
+    "expectedRedirect": "/events/webinar/2025/show-subscribers-you-keep.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/value-based-approach.html",
+    "expectedRedirect": "/events/webinar/2024/like-a-diamond.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/your-broadband-website.html",
+    "expectedRedirect": "/events/webinar/2024/can-your-broadband-website.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/automation-elevate-productivity.html",
+    "expectedRedirect": "/events/webinar/2025/elevate-productivity.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/crush-bead-complexity.html",
+    "expectedRedirect": "/events/webinar/2024/crush-bead-program-complexity.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/wi-fi-7-perfect-opportunity.html",
+    "expectedRedirect": "/events/webinar/2024/wifi-perfect-opportunity.html"
+  },
+  {
+    "path": "/forms/build/webinar/open-access-muni.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/drive-higher-retention-revenue.html",
+    "expectedRedirect": "/events/webinar/2023/the-innovative-ways.html"
+  },
+  {
+    "path": "/forms/broadband-ops/webinar/buzzwords-or-business-opportunities.html",
+    "expectedRedirect": "/events/webinar/2025/buzzwords-or-business-opportunities.html"
+  },
+  {
+    "path": "/forms/build/webinar/bead-or-bust-ntia.html",
+    "expectedRedirect": "/events/webinar/2025/bead-or-bust.html"
+  },
+  {
+    "path": "/forms/build/webinar/bead-or-bust-whats-next.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/build-own-live-it.html",
+    "expectedRedirect": "/events/webinar/2025/build-it-own-it.html"
+  },
+  {
+    "path": "/forms/build/webinar/cities-towns-broadband.html",
+    "expectedRedirect": "/events/webinar/2025/How-cities-and-towns-create-a-broadband-network-.html"
+  },
+  {
+    "path": "/forms/build/webinar/Defy-The-Overbuilders.html",
+    "expectedRedirect": "/events/webinar/2025/defy-the-overbuilders.html"
+  },
+  {
+    "path": "/forms/build/webinar/hit-big-growth-goals.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/build/webinar/plan-launch-adjust.html",
+    "expectedRedirect": "/events/webinar/2025/plan-launch-adjust.html"
+  },
+  {
+    "path": "/forms/build/webinar/use-broadband-data.html",
+    "expectedRedirect": "/events/webinar.html"
+  },
+  {
+    "path": "/forms/customer-support/webinar/prove-it-win-battles.html",
+    "expectedRedirect": "/events/webinar/2025/prove-it-win-battles.html"
+  },
+  {
+    "path": "/forms/general-manager/webinar/blueprint-for-success.html",
+    "expectedRedirect": "/events/webinar/2025/blueprint-for-success.html"
+  },
+  {
+    "path": "/forms/general-manager/webinar/deliver-a-smarter-and-safer-connected-home.html",
+    "expectedRedirect": "/events/webinar/2025/deliver-a-smarter-and-safer-connected-home.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/beyond-the-basics.html",
+    "expectedRedirect": "/events/webinar/2025/beyond-the-basics.html"
+  },
+  {
+    "path": "/forms/marketer/webinar/small-business-market.html",
+    "expectedRedirect": "/events/webinar/2025/your-small-business-market-is-bigger.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/change-the-game.html",
+    "expectedRedirect": "/events/webinar/2025/change-the-game.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/defend-broadband-turf.html",
+    "expectedRedirect": "/events/webinar/2025/six-steps-to-defend.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/fight-back-with-security.html",
+    "expectedRedirect": "/events/webinar/2025/bad-actors.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/legacy-to-leading-edge.html",
+    "expectedRedirect": "/events/webinar/2025/from-legacy-to-leading-edge.html"
+  },
+  {
+    "path": "/forms/network-engineer/webinar/smarter-design-managed-wi-fi.html",
+    "expectedRedirect": "/events/webinar/2025/smarter-design-managed-wi-fi.html"
+  }
+]
