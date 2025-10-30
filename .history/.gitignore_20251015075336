@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Percy Chromium binaries
+**/.local-chromium/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# Percy snapshot cache
+.percy/
+
+# Cypress reports
+cypress/reports/
+*.log

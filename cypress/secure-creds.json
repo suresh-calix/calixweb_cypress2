@@ -1,0 +1,10 @@
+{
+  "CALIX_USER_ID": {
+    "encrypted": "2f9db49512fa16ffed28850d462abc8ee1f5e5ee0eccb827790b4f11cf015d27",
+    "iv": "169b307f5f7f8b32382b5424af4b05b4"
+  },
+  "CALIX_PASSWORD": {
+    "encrypted": "ed0f03671aec66bc7824a69136795465",
+    "iv": "38cdcf04fb80ff69049eee081e2d77fa"
+  }
+}
