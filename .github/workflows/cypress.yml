@@ -1,3 +1,12 @@
+
+name: Run myCalixLoginTest.js
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
   cypress-test:
     runs-on: ubuntu-latest
