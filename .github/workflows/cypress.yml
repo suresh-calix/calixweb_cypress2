@@ -1,15 +1,6 @@
-name: Run myCalixLoginTest.js
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
 jobs:
   cypress-test:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -30,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Verify Cypress binary
+      - name: Install Cypress binary
         run: npx cypress install
 
       - name: Set environment variables from secrets
         run: |
-          echo "CYPRESS_USER_ID=${{ secrets.CALIX_USER_ID }}" >> $GITHUB_ENV
-          echo "CYPRESS_USER_PASSWORD=${{ secrets.CALIX_PASSWORD }}" >> $GITHUB_ENV
+          echo "CYPRESS_USER_ID=${{ secrets.USER_ID }}" >> $GITHUB_ENV
+          echo "CYPRESS_USER_PASSWORD=${{ secrets.USER_PASSWORD }}" >> $GITHUB_ENV
 
       - name: Run specific Cypress test
         run: npx cypress run --headed --browser chrome --spec "cypress/calix/smoke/myCalixLoginTest.js"
